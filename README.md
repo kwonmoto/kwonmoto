@@ -1,72 +1,40 @@
-<!-- 헤더 -->
-<h1 align="center">Hi there! 👋 I'm Kwon Hyeokjun </h1>
+# 권혁준 · Kwon Hyeokjun 👋
 
-<!-- 간단한 소개 -->
-### 👨‍💻 Who Am I?
-- 💡 **Frontend 개발자**로 활동 중이에요.  
-- 🔥 사용자의 경험을 개선하는 **UI/UX 설계**에 관심이 많아요.  
-- 🚀 **React & TypeScript**를 중심으로 다양한 기술을 다루고 있어요.  
-- 🎯 효율적인 개발 프로세스와 **DX(Developer Experience)** 개선에 관심이 많아요!  
+> 프론트엔드에서 출발해, **무엇을 왜 만드는가**까지 고민하는 product engineer를 지향합니다.
 
-### 🎯 What I Like?
-- 💻 **Front-End Performance** 최적화  
-- 🎨 **UI/UX 개선** 및 디자인 시스템 구축  
-- 🏗 **모노레포(Monorepo) 환경 구성 및 관리**  
-- 🔥 새로운 기술 트렌드 탐색 및 도입
+React/TypeScript로 화면을 구현하는 데서 멈추지 않고, 프로덕트의 방향에 관여하는 엔지니어가 되려고 합니다. 요즘은 프론트엔드와 AI가 만나는 지점에 가장 흥미를 느껴요.
 
----
+### 🔭 요즘 하는 일
 
-### 🛠 Tech Stack
-#### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Emotion-C65C99?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vanilla_extract-FFB86C?style=flat"/>
-</p>
+- 🤖 **LangGraph 기반 멀티에이전트 오케스트레이션**을 다룹니다.
+- 🛠️ **MCP · Claude Code** 등 AI를 실제 개발 워크플로우에 녹이는 방법을 깊게 파고 있어요.
+- 🎨 **디자인 시스템**과 **모노레포** 환경 설계에 관심이 많습니다.
 
-#### ⚡ JavaScript & TypeScript
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-</p>
+### 🛠 기술 스택
 
-#### ⚛️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
-</p>
+**Frontend**
 
-#### 🔥 Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=NestJS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=Supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=MongoDB&logoColor=white"/>
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
+
+**Styling & Tooling**
+
+![Emotion](https://img.shields.io/badge/Emotion-C65C99?style=flat&logoColor=white)
+![vanilla-extract](https://img.shields.io/badge/vanilla--extract-FFB86C?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
-### 🔥 Recent Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwonmoto&theme=react-dark" />
-</p>
+### 📫 Contact
 
----
-
-### 📫 Contact Me
-<p align="center">
-  <a href="mailto:spadekwon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.harrykwon@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hrykwon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%81%EC%A4%80-%EA%B6%8C-052810229/)
